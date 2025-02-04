@@ -46,13 +46,13 @@ Through this project, I was able to dive deeper into various iOS development con
 
 Here’s a preview of what the app looks like:
 
-![Screenshot 1](https://i.postimg.cc/655TJCDQ/Screenshot-2025-02-03-at-6-25-43-PM.png)
-![Screenshot 2](https://i.postimg.cc/wMxxzd4r/Screenshot-2025-02-03-at-6-20-12-PM.png)
-![Screenshot 3](https://i.postimg.cc/wjnBmZ3t/Screenshot-2025-02-03-at-6-20-17-PM.png)
-![Screenshot 4](https://i.postimg.cc/rmNy7pjW/Screenshot-2025-02-03-at-6-20-19-PM.png)
-![Screenshot 5](https://i.postimg.cc/hGxtbs72/Screenshot-2025-02-03-at-6-24-33-PM.png)
-![Screenshot 6](https://i.postimg.cc/HxgsSMwd/Screenshot-2025-02-03-at-6-24-37-PM.png)
-![Screenshot 7](https://i.postimg.cc/65jq9yXf/Screenshot-2025-02-03-at-6-24-44-PM.png)
+![Screenshot 1](https://i.postimg.cc/d12bv6DY/Screenshot-2025-02-03-at-6-20-12-PM.png)
+![Screenshot 2](https://i.postimg.cc/JzSvkvk8/Screenshot-2025-02-03-at-6-20-17-PM.png)
+![Screenshot 3](https://i.postimg.cc/tTNM8gmR/Screenshot-2025-02-03-at-6-20-19-PM.png)
+![Screenshot 4](https://i.postimg.cc/6qH15mXD/Screenshot-2025-02-03-at-6-24-33-PM.png)
+![Screenshot 5](https://i.postimg.cc/vT8Nydpr/Screenshot-2025-02-03-at-6-24-37-PM.png)
+![Screenshot 6](https://i.postimg.cc/BQVwrkNF/Screenshot-2025-02-03-at-6-24-44-PM.png)
+
 
 ---
 
